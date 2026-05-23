@@ -1,20 +1,17 @@
 # Chat Application
 
-This is a simple chat application developed using Python socket programming.
+## Description
+A real-time chat application developed using Python socket programming that enables communication between multiple users through a client-server architecture.
 
 ## Features
+- Real-time messaging
 - Client-server communication
-- Real-time text messaging
-- Simple command-line interface
+- Socket programming implementation
+- Command-line interface
 
 ## Technologies Used
 - Python
 - Socket Programming
 
-## How to Run
-
-### Run Server
-python server.py
-
-### Run Client
-python client.py
+## Project Goal
+To understand networking concepts and implement real-time communication using Python sockets.
