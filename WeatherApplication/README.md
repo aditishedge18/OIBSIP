@@ -1,25 +1,19 @@
 # Weather Application
 
-A simple Python weather application using OpenWeatherMap API.
+## Description
+A Python weather application using OpenWeatherMap API to fetch and display real-time weather information for any city.
 
 ## Features
-- Shows city weather
-- Shows temperature
-- Shows humidity
-- Shows weather condition
-- Shows country
+- Real-time weather updates
+- Temperature display
+- Humidity display
+- Country details
+- Weather condition display
 
 ## Technologies Used
 - Python
 - Requests Library
 - OpenWeatherMap API
 
-## How To Run
-1. Install requests library
-2. Run weather.py
-3. Enter city name
-
-## Example
-City: Mumbai
-Temperature: 32°C
-Weather: Haze
+## Project Goal
+To learn API integration and real-time data fetching using Python.
